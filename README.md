@@ -2,7 +2,7 @@
 
 # Welcome 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tushar-sahani/Tushar-sahani/master/name.svg" alt="Tushar Sahani" />
+  <img src="https://raw.githubusercontent.com/avinash1Tiwari/avinash1Tiwari/master/name.svg" alt="Avinash Tiwari" />
 </h1>
 
 > **I am a B.Tech undergraduate student in Computer Science with a passion of developing solutions and a craving learner. I enjoy working in C++ and with Technical Societies. Deeply value project based learning experiences and working in a team. Creating value and impact to bring about a change.**
@@ -14,7 +14,7 @@
   <br>
   
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-sahani&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash1Tiwari&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Let's connect 🤝
 <br>
@@ -33,6 +33,6 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avinash1Tiwari&show_icons=true&theme=tokyonight&hide_border=true" />
   <a href="https://github.com/avinash1Tiwari/github-readme-streak-stats">
-    <img width ="51%" alt="Tushar-sahani's streak" src="https://streak-stats.demolab.com/?user=Tushar-sahani&theme=tokyonight&hide_border=true"/>
+    <img width ="51%" alt="Avinash Tiwari's streak" src="https://streak-stats.demolab.com/?user=avinash1Tiwari&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
